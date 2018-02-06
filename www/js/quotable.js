@@ -12,32 +12,33 @@ var $logoWrapper = null;
 
 var quotes = [
     {
-        "quote": "I'd been drinking.",
-        "source": "Dennis Rodman"
+        "quote": "Lorem ipsum dolor sit amet",
+        "source":"J. Walter Weatherman"
     },
     {
-        "quote": "I've made a huge mistake.",
-        "source": "G.O.B."
-    },
-    {
-        "quote": "Yes, I have smoked crack cocaine",
-        "source": "Toronto Mayor Rob Ford",
-        "size": 65
-    },
-    {
-        "quote": "Annyong.",
-        "source": "Annyong",
-        "size": 90
-    },
-    {
-        "quote": "STEVE HOLT!",
-        "source": "Steve Holt",
-        "size": 65
-    },
-    {
-        "quote": "Whoa, whoa, whoa. There's still plenty of meat on that bone. Now you take this home, throw it in a pot, add some broth, a potato. Baby, you've got a stew going.",
-        "source": "Carl Weathers",
+        "quote": "Sed viverra, sem eleifend iaculis pharetra, lorem ante euismod ex, imperdiet bibendum quam purus pharetra magna.",
+        "source":"J. Walter Weatherman",
         "size": 40
+    },
+    {
+        "quote": "Type your text here!",
+        "source":"J. Walter Weatherman",
+        "size": 65
+    },
+    {
+        "quote": "Suspendisse.",
+        "source":"J. Walter Weatherman",
+        "size": 85
+    },
+    {
+        "quote": "Donec sollicitudin augue odio.",
+        "source":"J. Walter Weatherman",
+        "size": 65
+    },
+    {
+        "quote": "Pellentesque pharetra ultrices ullamcorper. Nunc tristique sollicitudin diam ac interdum. Integer in euismod ligula, sed facilisis purus. Nunc fringilla ante nec eros interdum lobortis.",
+        "source":"J. Walter Weatherman",
+        "size": 30
     }
 ];
 
